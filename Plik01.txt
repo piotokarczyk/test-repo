@@ -4,4 +4,3 @@ zmiana03
 zmiana04
 zmiana05
 zmiana08
-kolejna_zmiana
